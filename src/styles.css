@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Fredoka One', cursive;
+  -webkit-font-smoothing: antialiased;
+  background: #9466ff;
+}
+
+.App {
+  max-width: 1200px;
+  margin: auto;
+}
